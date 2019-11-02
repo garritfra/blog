@@ -3,13 +3,16 @@ name: Gatsby Publish
 on:
   push:
     branches:
-      - develop
+      - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: xmflsct/action-publish-gatsby@v1.0.0
-        with:
-          token: ${{ secrets.ACCESS_TOKEN }}
+      - name: Install Dependencies
+        run: npm install
+      - name: Build
+        run: npm run build
+      - name: Deploy
+        run: npm run deploy
