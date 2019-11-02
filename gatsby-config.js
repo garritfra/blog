@@ -5,6 +5,7 @@ module.exports = {
       options: {},
     },
   ],
+  pathPrefix: "/blog",
   // Customize your site metadata:
   siteMetadata: {
     title: `Garrits Blog`,
