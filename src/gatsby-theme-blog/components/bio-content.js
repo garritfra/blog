@@ -9,6 +9,6 @@ export default () => (
   <Fragment>
     Personal Blog by{" "}
     <Styled.a href="https://garrit.xyz">Garrit Franke</Styled.a>
-    .<br />I like coding as much as I do porridge.
+    .<br />I write about anything that comes to my mind.✨
   </Fragment>
 )
