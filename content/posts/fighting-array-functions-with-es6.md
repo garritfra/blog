@@ -6,7 +6,7 @@ date: 2019-04-07
 Yesterday, I came across an interesting bug regarding JavaScript Arrays, and I wanted to share my approach to fixing it.
 At a basic level, I wanted to pass part of an array to a function, but wanted to use the original array later on.
 
-```
+```js
 let arr = [1, 2, 3, 4, 5]
 let something = arr.splice(0, 3)
 do(something) // []
@@ -25,7 +25,7 @@ Some array methods in the EcmaScript specification are designed to mutate arrays
 
 These functions do not mutate the array they are called on. For example:
 
-```
+```js
 let arr = [1, 2, 3, 4, 5]
 let partOfArr = arr.slice(1, 2)
 console.log(partOfArr) // [2, 3]
@@ -41,7 +41,7 @@ console.log(arr) // [1, 2, 3, 4, 5]
 
 These methods mutate the array directly. This can lead to unreadable code, as the value can be manipulated from anywhere. For example:
 
-```
+```js
 let arr = [5, 2, 4]
 arr.sort()
 console.log(arr) // [2, 4, 5]
@@ -55,7 +55,7 @@ To me, it is very unclear, which functions do, and which don’t mutate arrays d
 
 Take a look at this snippet:
 
-```
+```js
 let arr = [3, 5, 1, 2, 4]
 let sorted = [...arr].sort()
 console.log(arr) // [3, 5, 1, 2, 4]
@@ -65,7 +65,7 @@ console.log(sorted) // [1, 2, 3, 4, 5]
 Voilà! We have a sorted array, and the original one is also around. The spread operator(`[...arr]`) is used to create a new array with every value of arr .
 You can use this for arrays, as well as objects:
 
-```
+```js
 let obj = {
 field: "example"
 }
