@@ -3,7 +3,7 @@ title: Whom do you trust?
 date: 2020-03-17
 ---
 
-Nowadays, password managers are a necessity if you care even a slightest about your personal belongings on the interwebs. But think about it, do you really want to trust another company to store your most sensitive information?
+Nowadays, password managers are a necessity if you care even the slightest about your personal belongings on the interwebs. But think about it, do you really want to trust another company to store your most sensitive information?
 
 ![](https://images.unsplash.com/photo-1522251670181-320150ad6dab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2566&q=80)
 
