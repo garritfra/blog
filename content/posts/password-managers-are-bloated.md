@@ -21,7 +21,7 @@ The problem that most likely arises from this technique is called _password chao
 
 > _"The confusion that arises when users have many unique passwords."_
 
-The aim of a password manager is [to solve this problem by storing all of your passwords in a single place and securing it with an _ultra secure superpassword!_ (©)](https://www.businessinsider.com/how-to-use-password-manager-store-protect-yourself-hackers-lastpass-1password-dashlane-2017-2?r=DE&IR=T#most-people-are-bad-at-passwords-real-bad-1). This way, you can use arbitrary passwords - preferebly gibberish that doesn't make sense to humans (nor machines) - without losing them, as long as you have your _ultra secure superpassword!_ (©) - aka your masterpassword. The benefits are obvious: You get rid of the password chaos problem while staying relatively secure. Eventhough password managers are quite benificial, some people (including myself) see a catch in them.
+The aim of a password manager is [to solve this problem by storing all of your passwords in a single place and securing it with an _ultra secure superpassword!_ (©)](https://www.businessinsider.com/how-to-use-password-manager-store-protect-yourself-hackers-lastpass-1password-dashlane-2017-2?r=DE&IR=T). This way, you can use arbitrary passwords - preferebly gibberish that doesn't make sense to humans (nor machines) - without losing them, as long as you have your _ultra secure superpassword!_ (©) - aka your masterpassword. The benefits are obvious: You get rid of the password chaos problem while staying relatively secure. Eventhough password managers are quite benificial, some people (including myself) see a catch in them.
 
 ### Relying on a third party
 
