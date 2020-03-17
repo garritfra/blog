@@ -29,7 +29,7 @@ Relying on third party companies doesn't seem like a big deal. After all, you ar
 
 ### A Stateless password manager
 
-Recently, I stumbled across [LessPass](https://lesspass.com/#/). LessPass is a password manager that is very different from what I have seen so far. Instead of storing passwords that either you or a random password generator comes up with, it computes passwords on the fly, given a website, username, your masterpassword and some options.
+Recently, I stumbled across [LessPass](https://lesspass.com/#/). LessPass is a password manager that is very different from what I have seen so far. Instead of storing passwords that either you or a random password generator came up with, it computes passwords on the fly, given a website, username, your masterpassword and some options.
 
 ![LessPass](../assets/lesspass.gif)
 
