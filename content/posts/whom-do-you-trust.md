@@ -33,7 +33,7 @@ Recently, I stumbled across [LessPass](https://lesspass.com/#/). LessPass is a p
 
 ![LessPass](../assets/lesspass.gif)
 
-The key here is that LessPass uses a **pure function**, i.e. a function that given the same parameters will always give the same result. Using this technique, there's no need to store your password in a database owned by a large company, nor do you have to sync your passwords between your devices ([There's an app](https://play.google.com/store/apps/details?id=com.lesspass.android&hl=de)). The computation happens right on your machine, and **only** on your machine. If you want to find out more about how it works under the hood, you can check out [the authors blog post](https://blog.lesspass.com/lesspass-how-it-works-dde742dd18a4#.vbgschksh). He goes into great detail on what alorithm is used to compute your passwords and how to utilize every feature of LessPass.
+The key here is that LessPass uses a **pure function**, i.e. a function that given the same parameters will always give the same result. Using this technique, there's no need to store your password in a database owned by a large company, nor do you have to sync your passwords between your devices ([but there's an app](https://play.google.com/store/apps/details?id=com.lesspass.android&hl=de)). The computation happens right on your machine, and **only** on your machine. If you want to find out more about how it works under the hood, you can check out [the authors blog post](https://blog.lesspass.com/lesspass-how-it-works-dde742dd18a4#.vbgschksh). He goes into great detail on what alorithm is used to compute your passwords and how to utilize every feature of LessPass.
 
 ### Conclusion
 
