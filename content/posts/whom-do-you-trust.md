@@ -13,7 +13,7 @@ Use a **stateless** password manager like [LessPass](https://lesspass.com/) to a
 
 ### Why use a password manager in the first place?
 
-Having a single password for multiple accounts is convenient. What's also convenient, is **using** this password on multiple accounts once you have access to a single one. What might be convenient to you, might also me convenient to others. Many people, [especially celebrities](https://web.archive.org/web/20170225163642/http://uk.businessinsider.com/twitter-says-it-wasnt-hacked-passwords-reused-older-hacks-malware-to-blame-2016-6), fall victim to this trap of comfort.
+Having a single password for multiple accounts is convenient. What's also convenient, is **using** this password on multiple accounts once you have access to a single one. What might be convenient to you, might also be convenient to others. Many people, [especially celebrities](https://web.archive.org/web/20170225163642/http://uk.businessinsider.com/twitter-says-it-wasnt-hacked-passwords-reused-older-hacks-malware-to-blame-2016-6), fall victim to this trap of comfort.
 
 To counteract this, people are (and should be) using different passwords for different accounts. These passwords differ in a single letter or digit (Twitter: `porridge4president`, GitHub: `poridge5president`, etc.), or they don't match at all (Twitter: `porridge4president`, GitHub: `YouWontGuessThisOne`).
 
