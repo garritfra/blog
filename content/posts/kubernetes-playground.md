@@ -12,7 +12,12 @@ date: 2020-04-08
   - Kubernetes Setup
 - Kubernetes fundamentals
   - Kubernetes vs docker compose
-- Adding simple services
+- Adding and managing services
+  - Infrastructure as code
+  - Port Managing
 - Managing application data
 - Personal Dashboard
 - Future ambitions
+  - Distributed file system
+- Resources
+  - Awesome Selfhosted
