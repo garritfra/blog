@@ -3,7 +3,7 @@ title: Quick Tip! Setting up a lightweight Server-Client VPN with wireguard
 date: 2020-08-19
 ---
 
-This blog post has been taken over from my [collection of "Today I Learned" articles](https://garrit.xyz/til/about.html).
+This blog post has been taken over from my [collection of "Today I Learned" articles](https://garrit.xyz/til).
 
 You can easily set up a private network of your devices. This way you can "talk" to your phone, raspberry pi etc. over an **encrypted** network, with simple IP-addresses.
 
