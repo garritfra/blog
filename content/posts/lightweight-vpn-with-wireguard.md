@@ -7,6 +7,8 @@ This blog post has been taken over from my [collection of "Today I Learned" arti
 
 You can easily set up a private network of your devices. This way you can "talk" to your phone, raspberry pi etc. over an **encrypted** network, with simple IP-addresses.
 
+![](https://images.unsplash.com/photo-1505659903052-f379347d056f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80)
+
 Firstly, install wireguard on all of your systems. Simply install the `wireguard` package from your package manager respectively. Check out [the official installation guide](https://www.wireguard.com/install/) if you can't find the package. If you're on debian, try [this](https://wiki.debian.org/WireGuard?action=show&redirect=Wireguard) guide. There's also an app for Android, iOS and MacOS.
 
 Every participent (Client and server) needs a key-pair. To generate this, run this command first on the server, and on all clients:
